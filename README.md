@@ -1,2 +1,16 @@
 test
+A
+C
+D
+A
+A
+B
+B
+B
+B
+B
+D
+D
+C
+C
 ====
