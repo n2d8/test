@@ -1,11 +1,14 @@
 This is a text file to do part 4
 
 I don't like this lab
-<<<<<<< HEAD
+
 
 so troublesome, doing the same thing twice
-=======
+
 so on9
 
 aisgejlasiejglaisejglsaijeglaisejglasiejglsaijeglaisgelsagalsiegjlasijglasijeglasjeg
->>>>>>> 7e3303fd77054c2f524df63414d0c118bef9b805
+
+
+111111111111111111111111111111111111111111111111111111111111111111
+
